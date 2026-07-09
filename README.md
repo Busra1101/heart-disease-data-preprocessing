@@ -65,5 +65,14 @@ Projenin tamamında Lojistik Regresyon, Random Forest ve Bayesian Network yönte
 
 > Bu çalışma eğitim amaçlıdır ve klinik tanı amacıyla kullanılmamalıdır.
 
+
+## Proje Raporu
+
+Projenin veri analizi, ön işleme yaklaşımı, makine öğrenmesi modelleri ve elde edilen sonuçlarını içeren nihai rapora aşağıdaki bağlantıdan ulaşabilirsiniz.
+
+[Proje raporunu görüntüle](kalp-hastaligi-proje-raporu.pdf)
+
+Proje raporunun hazırlanması, ekip çalışmalarının bütünleştirilmesi ve nihai düzenlemesi tarafımdan gerçekleştirilmiştir.
+
 **Hazırlayan:** Büşra Demirkıran  
 **Bölüm:** Bartın Üniversitesi Bilgisayar Mühendisliği
